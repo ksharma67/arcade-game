@@ -12,5 +12,11 @@
 <li>If you make to the water line you will get 20 points and can continue collecting more items.. YEAH!!</ul>
 <h4>GOOD LUCK!!</h4>
 
+<h2>Option 1</h2>
+
 <h3><a href="http://ksharma67.github.io/arcade-game">PLAY IT HERE Arcade Game</a></h3>
+
+<h2>Option 2</h2>
+
+<h3>Git Clone - <code>git clone http://ksharma67.github.io/arcade-game</code><h3>
 
