@@ -18,5 +18,9 @@
 
 <h2>Option 2</h2>
 
-<h3>Git Clone - <code>git clone http://ksharma67.github.io/arcade-game</code><h3>
+<h3>Git Clone - <code>git clone http://ksharma67.github.io/arcade-game</code></h3>
+<ul>
+  <li>Then Open The Downloaded Folder.
+  <li>Double Click On index.html
+</ul>
 
